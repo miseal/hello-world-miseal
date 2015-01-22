@@ -8,3 +8,5 @@ Changing for second time.
 Changing for the third time.
 
 Created new branch and should be deleted once it is merged to the master.
+
+Creating new branch 1.2.
